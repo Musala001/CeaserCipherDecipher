@@ -1,11 +1,16 @@
+# Caesar Cipher - Java Implementation 🔐
 
----
+This is a simple Java program that demonstrates encryption and decryption using the classic Caesar Cipher (Shift Cipher) technique. It works with uppercase alphabetic characters and preserves spaces and punctuation.
 
-### ✅ To use:
+## 📌 Features
 
-1. **Save this text** as `README.md` in your repo folder.
-2. Replace `your-username/your-repo-name` with your actual GitHub details.
-3. If you like, customize the `Author`, `License`, and description sections.
+- Encrypt any text using Caesar Cipher.
+- Decrypt messages using the same shift key.
+- Handles both letters and special characters.
+- Console-based interface using `Scanner`.
 
-Let me know if you also want help creating the `LICENSE` file or `.gitignore`!
+## 🧠 What is a Caesar Cipher?
 
+A Caesar Cipher is a substitution cipher where each letter in the plaintext is shifted a fixed number of positions down the alphabet.
+
+For example, with a shift of 3:
